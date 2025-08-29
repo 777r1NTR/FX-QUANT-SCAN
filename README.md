@@ -1,4 +1,7 @@
 # FX-QUANT-SCAN
+Access Link:
+https://fx-quant-scan-3wvacmjpkn9zkybjmfhbvg.streamlit.app/
+
 Reduce decision fatigue, use FX Quant Scan
 Professional FX Analytics & Zone-Based Market Analysis Platform
 A comprehensive Streamlit-based web application for foreign exchange market analysis, featuring real-time data visualization, currency strength analysis, and innovative zone-based price evaluation.
